@@ -43,3 +43,5 @@ Thumbs.db
 
 # Notebook checkpoints
 .ipynb_checkpoints/
+models/*.pkl
+*.pkl
