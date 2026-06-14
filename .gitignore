@@ -45,3 +45,5 @@ Thumbs.db
 .ipynb_checkpoints/
 models/*.pkl
 *.pkl
+models/*.pkl
+*.pkl
