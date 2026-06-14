@@ -1,0 +1,49 @@
+team,fifa_rank,elo_rating,squad_value_eur_m,average_age,data_quality,updated_at,notes
+España,1,1875,1120,26.7,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Argentina,2,1868,850,28.1,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Francia,3,1862,1180,26.5,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Inglaterra,4,1855,1260,26.4,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Brasil,5,1848,1040,26.8,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Portugal,6,1838,1030,27.2,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Países Bajos,7,1828,820,26.6,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Bélgica,8,1818,540,27.9,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Alemania,9,1810,890,26.7,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Croacia,10,1800,330,28.3,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Marruecos,11,1788,360,27.0,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Colombia,13,1772,310,27.4,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Estados Unidos,14,1764,360,25.8,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Mexico,15,1758,230,27.5,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Uruguay,16,1752,520,27.1,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Switzerland,17,1746,300,27.6,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Japan,18,1740,290,26.9,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Senegal,19,1734,260,27.2,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Iran,20,1728,70,28.5,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Corea del Sur,22,1716,210,27.8,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Ecuador,23,1710,230,25.9,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Austria,24,1704,300,27.3,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Turkey,25,1698,390,26.8,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Australia,26,1692,55,28.1,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Canadá,27,1686,210,26.2,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Norway,29,1674,500,26.1,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Panama,30,1668,30,28.0,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Egypt,34,1644,170,28.2,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Argelia,35,1638,190,27.8,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Scotland,36,1632,250,27.5,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Paraguay,39,1614,130,27.4,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Tunisia,40,1608,65,27.9,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Costa de Marfil,42,1596,300,26.7,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Sweden,43,1590,320,27.1,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Czech Republic,44,1584,190,27.6,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Uzbekistan,50,1548,55,26.8,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Qatar,51,1542,22,28.0,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Congo DR,56,1512,120,26.9,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Iraq,58,1500,25,27.6,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Arabia Saudita,60,1488,35,28.4,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+South Africa,61,1482,45,27.3,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Jordania,66,1452,18,27.8,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Cabo Verde,68,1440,38,28.2,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Bosnia and Herzegovina,71,1422,95,27.7,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Ghana,72,1416,170,26.6,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Curacao,82,1356,28,27.9,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+Haiti,84,1344,23,27.2,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs
+New Zealand,86,1332,40,26.9,initial_estimate,2026-06-13,Editable local baseline for predictor strength inputs

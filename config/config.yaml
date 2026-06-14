@@ -1,0 +1,28 @@
+project:
+  name: worldcup_predictor
+  version: 0.1.0
+
+paths:
+  data_raw: data/raw
+  data_processed: data/processed
+  models: models
+  reports: reports
+
+model:
+  target_column: result
+  random_state: 42
+  test_size: 0.25
+  evaluation_metrics:
+    - accuracy
+    - precision
+    - recall
+    - f1
+
+football_data:
+  competitions:
+    - WC
+
+simulation:
+  n_simulations: 1000
+  group_stage: true
+  elimination_stage: true

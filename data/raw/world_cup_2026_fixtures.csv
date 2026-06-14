@@ -1,0 +1,73 @@
+competition,phase,stage,group,matchday,date,time_local,team_home,team_away,venue,city,country
+World Cup 2026,Fase de grupos,Fase de grupos,A,1,2026-06-11,,Mexico,South Africa,Mexico City Stadium,Ciudad de México,Mexico
+World Cup 2026,Fase de grupos,Fase de grupos,A,1,2026-06-11,,South Korea,Czech Republic,Estadio Guadalajara,Guadalajara,Mexico
+World Cup 2026,Fase de grupos,Fase de grupos,A,2,2026-06-18,,Mexico,South Korea,Estadio Guadalajara,Guadalajara,Mexico
+World Cup 2026,Fase de grupos,Fase de grupos,A,2,2026-06-18,,Czech Republic,South Africa,Estadio Monterrey,Monterrey,Mexico
+World Cup 2026,Fase de grupos,Fase de grupos,A,3,2026-06-24,,Czech Republic,Mexico,Mexico City Stadium,Ciudad de México,Mexico
+World Cup 2026,Fase de grupos,Fase de grupos,A,3,2026-06-24,,South Africa,South Korea,Estadio Guadalajara,Guadalajara,Mexico
+World Cup 2026,Fase de grupos,Fase de grupos,B,1,2026-06-12,,Canada,Bosnia and Herzegovina,Toronto Stadium,Toronto,Canada
+World Cup 2026,Fase de grupos,Fase de grupos,B,1,2026-06-13,,Switzerland,Qatar,San Francisco Bay Area Stadium,San Francisco Bay Area,United States
+World Cup 2026,Fase de grupos,Fase de grupos,B,2,2026-06-18,,Canada,Switzerland,Vancouver Stadium,Vancouver,Canada
+World Cup 2026,Fase de grupos,Fase de grupos,B,2,2026-06-18,,Qatar,Bosnia and Herzegovina,Toronto Stadium,Toronto,Canada
+World Cup 2026,Fase de grupos,Fase de grupos,B,3,2026-06-24,,Qatar,Canada,Vancouver Stadium,Vancouver,Canada
+World Cup 2026,Fase de grupos,Fase de grupos,B,3,2026-06-24,,Bosnia and Herzegovina,Switzerland,Seattle Stadium,Seattle,United States
+World Cup 2026,Fase de grupos,Fase de grupos,C,1,2026-06-13,,Brazil,Morocco,New York New Jersey Stadium,Nueva York/Nueva Jersey,United States
+World Cup 2026,Fase de grupos,Fase de grupos,C,1,2026-06-13,,Haiti,Scotland,Boston Stadium,Boston,United States
+World Cup 2026,Fase de grupos,Fase de grupos,C,2,2026-06-19,,Brazil,Haiti,Miami Stadium,Miami,United States
+World Cup 2026,Fase de grupos,Fase de grupos,C,2,2026-06-19,,Scotland,Morocco,Philadelphia Stadium,Philadelphia,United States
+World Cup 2026,Fase de grupos,Fase de grupos,C,3,2026-06-24,,Scotland,Brazil,New York New Jersey Stadium,Nueva York/Nueva Jersey,United States
+World Cup 2026,Fase de grupos,Fase de grupos,C,3,2026-06-24,,Morocco,Haiti,Boston Stadium,Boston,United States
+World Cup 2026,Fase de grupos,Fase de grupos,D,1,2026-06-12,,United States,Paraguay,Los Angeles Stadium,Los Ángeles,United States
+World Cup 2026,Fase de grupos,Fase de grupos,D,1,2026-06-13,,Australia,Turkey,Vancouver Stadium,Vancouver,Canada
+World Cup 2026,Fase de grupos,Fase de grupos,D,2,2026-06-19,,United States,Australia,Seattle Stadium,Seattle,United States
+World Cup 2026,Fase de grupos,Fase de grupos,D,2,2026-06-19,,Turkey,Paraguay,Los Angeles Stadium,Los Ángeles,United States
+World Cup 2026,Fase de grupos,Fase de grupos,D,3,2026-06-25,,Turkey,United States,Los Angeles Stadium,Los Ángeles,United States
+World Cup 2026,Fase de grupos,Fase de grupos,D,3,2026-06-25,,Paraguay,Australia,Vancouver Stadium,Vancouver,Canada
+World Cup 2026,Fase de grupos,Fase de grupos,E,1,2026-06-14,,Germany,Curacao,Houston Stadium,Houston,United States
+World Cup 2026,Fase de grupos,Fase de grupos,E,1,2026-06-14,,Ivory Coast,Ecuador,Philadelphia Stadium,Philadelphia,United States
+World Cup 2026,Fase de grupos,Fase de grupos,E,2,2026-06-20,,Germany,Ivory Coast,Dallas Stadium,Dallas,United States
+World Cup 2026,Fase de grupos,Fase de grupos,E,2,2026-06-20,,Ecuador,Curacao,Houston Stadium,Houston,United States
+World Cup 2026,Fase de grupos,Fase de grupos,E,3,2026-06-25,,Ecuador,Germany,Kansas City Stadium,Kansas City,United States
+World Cup 2026,Fase de grupos,Fase de grupos,E,3,2026-06-25,,Curacao,Ivory Coast,Philadelphia Stadium,Philadelphia,United States
+World Cup 2026,Fase de grupos,Fase de grupos,F,1,2026-06-14,,Netherlands,Japan,Dallas Stadium,Dallas,United States
+World Cup 2026,Fase de grupos,Fase de grupos,F,1,2026-06-14,,Sweden,Tunisia,Estadio Monterrey,Monterrey,Mexico
+World Cup 2026,Fase de grupos,Fase de grupos,F,2,2026-06-20,,Netherlands,Sweden,Atlanta Stadium,Atlanta,United States
+World Cup 2026,Fase de grupos,Fase de grupos,F,2,2026-06-20,,Tunisia,Japan,Dallas Stadium,Dallas,United States
+World Cup 2026,Fase de grupos,Fase de grupos,F,3,2026-06-25,,Tunisia,Netherlands,Estadio Monterrey,Monterrey,Mexico
+World Cup 2026,Fase de grupos,Fase de grupos,F,3,2026-06-25,,Japan,Sweden,Houston Stadium,Houston,United States
+World Cup 2026,Fase de grupos,Fase de grupos,G,1,2026-06-15,,Belgium,Egypt,Seattle Stadium,Seattle,United States
+World Cup 2026,Fase de grupos,Fase de grupos,G,1,2026-06-15,,Iran,New Zealand,Los Angeles Stadium,Los Ángeles,United States
+World Cup 2026,Fase de grupos,Fase de grupos,G,2,2026-06-21,,Belgium,Iran,Kansas City Stadium,Kansas City,United States
+World Cup 2026,Fase de grupos,Fase de grupos,G,2,2026-06-21,,New Zealand,Egypt,Seattle Stadium,Seattle,United States
+World Cup 2026,Fase de grupos,Fase de grupos,G,3,2026-06-26,,New Zealand,Belgium,Los Angeles Stadium,Los Ángeles,United States
+World Cup 2026,Fase de grupos,Fase de grupos,G,3,2026-06-26,,Egypt,Iran,Kansas City Stadium,Kansas City,United States
+World Cup 2026,Fase de grupos,Fase de grupos,H,1,2026-06-15,,Spain,Cape Verde,Atlanta Stadium,Atlanta,United States
+World Cup 2026,Fase de grupos,Fase de grupos,H,1,2026-06-15,,Saudi Arabia,Uruguay,Miami Stadium,Miami,United States
+World Cup 2026,Fase de grupos,Fase de grupos,H,2,2026-06-21,,Spain,Saudi Arabia,Estadio Monterrey,Monterrey,Mexico
+World Cup 2026,Fase de grupos,Fase de grupos,H,2,2026-06-21,,Uruguay,Cape Verde,Houston Stadium,Houston,United States
+World Cup 2026,Fase de grupos,Fase de grupos,H,3,2026-06-26,,Uruguay,Spain,Miami Stadium,Miami,United States
+World Cup 2026,Fase de grupos,Fase de grupos,H,3,2026-06-26,,Cape Verde,Saudi Arabia,Atlanta Stadium,Atlanta,United States
+World Cup 2026,Fase de grupos,Fase de grupos,I,1,2026-06-16,,France,Senegal,New York New Jersey Stadium,Nueva York/Nueva Jersey,United States
+World Cup 2026,Fase de grupos,Fase de grupos,I,1,2026-06-16,,Iraq,Norway,Boston Stadium,Boston,United States
+World Cup 2026,Fase de grupos,Fase de grupos,I,2,2026-06-22,,France,Iraq,Philadelphia Stadium,Philadelphia,United States
+World Cup 2026,Fase de grupos,Fase de grupos,I,2,2026-06-22,,Norway,Senegal,New York New Jersey Stadium,Nueva York/Nueva Jersey,United States
+World Cup 2026,Fase de grupos,Fase de grupos,I,3,2026-06-26,,Norway,France,Boston Stadium,Boston,United States
+World Cup 2026,Fase de grupos,Fase de grupos,I,3,2026-06-26,,Senegal,Iraq,Philadelphia Stadium,Philadelphia,United States
+World Cup 2026,Fase de grupos,Fase de grupos,J,1,2026-06-16,,Argentina,Algeria,Kansas City Stadium,Kansas City,United States
+World Cup 2026,Fase de grupos,Fase de grupos,J,1,2026-06-16,,Austria,Jordan,San Francisco Bay Area Stadium,San Francisco Bay Area,United States
+World Cup 2026,Fase de grupos,Fase de grupos,J,2,2026-06-22,,Argentina,Austria,Dallas Stadium,Dallas,United States
+World Cup 2026,Fase de grupos,Fase de grupos,J,2,2026-06-22,,Jordan,Algeria,Kansas City Stadium,Kansas City,United States
+World Cup 2026,Fase de grupos,Fase de grupos,J,3,2026-06-27,,Jordan,Argentina,Dallas Stadium,Dallas,United States
+World Cup 2026,Fase de grupos,Fase de grupos,J,3,2026-06-27,,Algeria,Austria,San Francisco Bay Area Stadium,San Francisco Bay Area,United States
+World Cup 2026,Fase de grupos,Fase de grupos,K,1,2026-06-17,,Portugal,DR Congo,Miami Stadium,Miami,United States
+World Cup 2026,Fase de grupos,Fase de grupos,K,1,2026-06-17,,Uzbekistan,Colombia,Houston Stadium,Houston,United States
+World Cup 2026,Fase de grupos,Fase de grupos,K,2,2026-06-23,,Portugal,Uzbekistan,New York New Jersey Stadium,Nueva York/Nueva Jersey,United States
+World Cup 2026,Fase de grupos,Fase de grupos,K,2,2026-06-23,,Colombia,DR Congo,Miami Stadium,Miami,United States
+World Cup 2026,Fase de grupos,Fase de grupos,K,3,2026-06-27,,Colombia,Portugal,Houston Stadium,Houston,United States
+World Cup 2026,Fase de grupos,Fase de grupos,K,3,2026-06-27,,DR Congo,Uzbekistan,New York New Jersey Stadium,Nueva York/Nueva Jersey,United States
+World Cup 2026,Fase de grupos,Fase de grupos,L,1,2026-06-17,,England,Croatia,Toronto Stadium,Toronto,Canada
+World Cup 2026,Fase de grupos,Fase de grupos,L,1,2026-06-17,,Ghana,Panama,Boston Stadium,Boston,United States
+World Cup 2026,Fase de grupos,Fase de grupos,L,2,2026-06-23,,England,Ghana,Vancouver Stadium,Vancouver,Canada
+World Cup 2026,Fase de grupos,Fase de grupos,L,2,2026-06-23,,Panama,Croatia,Toronto Stadium,Toronto,Canada
+World Cup 2026,Fase de grupos,Fase de grupos,L,3,2026-06-27,,Panama,England,Vancouver Stadium,Vancouver,Canada
+World Cup 2026,Fase de grupos,Fase de grupos,L,3,2026-06-27,,Croatia,Ghana,Boston Stadium,Boston,United States
